@@ -1,7 +1,5 @@
 '''imports'''
 import zipfile
-import sys
-import os
 __banner__ = """
        +=======================================+
        |..........Zip  Cracker v 0.0.1.........|
